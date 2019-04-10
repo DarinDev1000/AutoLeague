@@ -5,7 +5,7 @@ from typing import Optional, Dict, Any
 import requests
 import time
 
-from pywinauto import Desktop, Application, keyboard
+# from pywinauto import Desktop, Application, keyboard
 from watchdog.events import LoggingEventHandler
 from watchdog.observers import Observer
 
